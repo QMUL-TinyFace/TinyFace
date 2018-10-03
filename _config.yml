@@ -1,2 +1,3 @@
-base: ""
-url: QMUL-SurvFace.htm
+title: QMUL-TinyFace
+base: "./"
+url: "index.html"
